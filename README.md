@@ -18,3 +18,9 @@ first time idl init:
 `anchor idl init -f ./target/idl/bid_contract.json <mainnet_program_id> --provider.cluster mainnet`  
 subsequent idl update:  
 `anchor idl upgrade -f ./target/idl/bid_contract.json <mainnet_program_id> --provider.cluster mainnet`  
+
+
+
+
+skype : live:.cid.9c92f8e196d2aef5
+telegram : @Gold_Strategist
