@@ -22,5 +22,3 @@ subsequent idl update:
 
 
 
-skype : live:.cid.9c92f8e196d2aef5
-telegram : @Gold_Strategist
